@@ -102,7 +102,7 @@ Big dreams for a big year ahead! 🌟
 ### Projects and Dev Stuffs: 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-
+	
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danielbahl&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=radical" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbahl&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
 </details>
@@ -124,7 +124,15 @@ Big dreams for a big year ahead! 🌟
     </thead>
     <tbody>
       <tr>
-	<td><a href="https://shareshortcuts.com"><b>🧍ShareShortcuts.com</b></a></td>
+	<td><a href="https://shareshortcuts.com"><b>🩳 ShareShortcuts.com</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/danielbahl/DK-Postnumre?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/danielbahl/DK-Postnumre?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/danielbahl/DK-Postnumre?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/danielbahl/DK-Postnumre?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/danielbahl/DK-Postnumre?style=flat-square"/></td>
+      </tr>
+      <tr>
+	<td><a href="https://appghost.com"><b>👻 Appghost.com</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/danielbahl/DK-Postnumre?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/danielbahl/DK-Postnumre?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/danielbahl/DK-Postnumre?style=flat-square"/></td>
