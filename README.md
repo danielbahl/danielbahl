@@ -36,7 +36,10 @@ Navigating the crossroads of code and entrepreneurship, I bring your tech dreams
  - 👨‍💻 <a href='https://piraffe.com/posts/learn-basic-git-howto-guide/?ref=github'>git for beginners</a>
  - 🔥 <a href='https://piraffe.com/posts/macos-external-hdds-smart-gsmartcontrol/?ref=github'>Diagnosing External USB HDDs with GSmartControl on macOS</a>
  - 😜 <a href='https://piraffe.com/posts/certbot-ubuntu-apache2-guide/?ref=github'>Certbot on Ubuntu with Apache2: A Comprehensive Guide</a>
- - 🚀 <a href='https://piraffe.com/posts/mysqldump-guide/?ref=github'>Demystifying `mysqldump`: A Comprehensive Guide</a><!-- BLOG-POST-LIST:END -->
+ - 🚀 <a href='https://piraffe.com/posts/mysqldump-guide/?ref=github'>Demystifying `mysqldump`: A Comprehensive Guide</a>
+ - 👀 <a href='https://piraffe.com/posts/awk-in-linux/?ref=github'>awk in Linux: Master the Filterering Process</a>
+ - ✍🏻 <a href='https://piraffe.com/posts/linux-tar-howto-master-guide/?ref=github'>tar in Linux</a>
+ - ⭐ <a href='https://piraffe.com/posts/welcome-2023/?ref=github'>Welcome to my new blog!</a><!-- BLOG-POST-LIST:END -->
 
 
 ### A Peek into My World:
