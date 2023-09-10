@@ -20,10 +20,9 @@ Navigating the crossroads of code and entrepreneurship, I bring your tech dreams
 
 <img alt="Coding Me" src="./assets/1500x500.jpg" />
 
-## Newest Blogposts on piraffe.com
-
+# 💥 Latest Blog Posts from Piraffe.com
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->  
+<!-- BLOG-POST-LIST:END -->
 
 
 ### A Peek into My World:
