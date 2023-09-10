@@ -20,7 +20,7 @@ Navigating the crossroads of code and entrepreneurship, I bring your tech dreams
 
 <img alt="Coding Me" src="./assets/1500x500.jpg" />
 
-# 💥 Latest Blog Posts from Piraffe.com
+### 💥 Latest Blog Posts from Piraffe.com
 <!-- BLOG-POST-LIST:START -->
  - ✍🏻 <a href='https://piraffe.com/posts/crontab-infinite-loop-every-second-script/?ref=github'>Job Scheduling Every Second</a>
  - 🔥 <a href='https://piraffe.com/posts/job-scheduling-in-linux/?ref=github'>Job Scheduling in Linux with at and crontab</a>
