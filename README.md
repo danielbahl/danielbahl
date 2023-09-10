@@ -44,8 +44,8 @@ Navigating the crossroads of code and entrepreneurship, I bring your tech dreams
 
 ### A Peek into My World:
 
-- 🛠 &nbsp; On the workbench: PHP, JavaScript/TypeScript, Deno, Astro SSG, MySQL, MongoDB, Goland and some Rust. Making the web a better place, one line of code at a time 😅🤣
-- 🚀 &nbsp; Currently nerding out: Playing with OpenAI GPT-4 API in my projects 🤖
+- 🛠 &nbsp; On the workbench: PHP, JavaScript/TypeScript, Deno, Astro SSG, MySQL, MongoDB, Golang and some Rust. Making the web a better place, one line of code at a time 😅🤣
+- 🚀 &nbsp; Currently nerding out: Integrating AI in some of my projects and internal tools with OpenAI GPT-4 API 🤖
 - 👨‍💻 &nbsp; Want a tour of my code? Check out my projects on [Github](https://github.com/DanielBahl).
 - 📝 &nbsp; When I'm not coding or running my business, I'm [blogging](https://piraffe.com) about it. Get in on the insights!
 - 🎮 &nbsp; <code>if () {</code> or <code>if () \n{</code> - I'm team one-liner
