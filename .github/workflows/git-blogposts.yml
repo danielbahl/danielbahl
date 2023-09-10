@@ -1,0 +1,21 @@
+name: ✍🏽 Piraffe.com Blog posts
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every hour at a weird time 😜
+    - cron: '14 * * * *'
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts from RSS FEED
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3df4ab11eba7bda6032a0b82a6bb43b11571feac # v4
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://piraffe.com/rss.xml"
+          template: "$newline - $randomEmoji(⭐,🎉,😜,🔥,🚀,👨‍💻,👀,✍🏻,🥳,⚡️) <a href='$url?ref=github'>$title</a>"
+          max_post_count: 15
+          committer_username: DanielBahl
+          committer_email: bot@danielbahl.com
+          commit_message: ":memo: updated blog list from RSS"
