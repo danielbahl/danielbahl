@@ -4,11 +4,17 @@ on:
   schedule:
     # Runs every hour at a weird time 😜
     - cron: '14 * * * *'
+permissions:
+  contents: write # To write the generated contents to the readme
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts from RSS FEED
     runs-on: ubuntu-latest
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
     steps:
       - uses: actions/checkout@3df4ab11eba7bda6032a0b82a6bb43b11571feac # v4
       - uses: gautamkrishnar/blog-post-workflow@master
