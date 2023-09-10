@@ -22,7 +22,21 @@ Navigating the crossroads of code and entrepreneurship, I bring your tech dreams
 
 # 💥 Latest Blog Posts from Piraffe.com
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ - ✍🏻 <a href='https://piraffe.com/posts/crontab-infinite-loop-every-second-script/?ref=github'>Job Scheduling Every Second</a>
+ - 🔥 <a href='https://piraffe.com/posts/job-scheduling-in-linux/?ref=github'>Job Scheduling in Linux with at and crontab</a>
+ - 🔥 <a href='https://piraffe.com/posts/coderunner-app-macos/?ref=github'>CodeRunner: My go-to for quickies</a>
+ - 🚀 <a href='https://piraffe.com/posts/darkmode-first/?ref=github'>Going 🌑 Dark-mode first!</a>
+ - 🥳 <a href='https://piraffe.com/posts/beautify-astro-syntax-highlighting-with-custom-vscode-theme/?ref=github'>Astro Syntax Highlighting with Custom VS Code Theme</a>
+ - 🎉 <a href='https://piraffe.com/posts/obsidian-raycast-daily-note-button/?ref=github'>Daily Note with Obsidian and Raycast</a>
+ - 👨‍💻 <a href='https://piraffe.com/posts/astro-3.0-uprgade?ref=github'>What&#39;s new in Astro 3.0</a>
+ - 👨‍💻 <a href='https://piraffe.com/posts/mysql-backup-script-mysqldump-linux/?ref=github'>My MySQL Backup Script</a>
+ - 🎉 <a href='https://piraffe.com/posts/howto-darkmode-in-astro/?ref=github'>Darkmode in Tailwind and Astro: How-to!</a>
+ - 👀 <a href='https://piraffe.com/posts/getting-started-astro-static-site-generator/?ref=github'>Getting started with Astro.build</a>
+ - 🚀 <a href='https://piraffe.com/posts/pnpm-versus-npm-vs-yarn/?ref=github'>pnpm VS npm and yarn: why p?</a>
+ - 👨‍💻 <a href='https://piraffe.com/posts/learn-basic-git-howto-guide/?ref=github'>git for beginners</a>
+ - 🔥 <a href='https://piraffe.com/posts/macos-external-hdds-smart-gsmartcontrol/?ref=github'>Diagnosing External USB HDDs with GSmartControl on macOS</a>
+ - 😜 <a href='https://piraffe.com/posts/certbot-ubuntu-apache2-guide/?ref=github'>Certbot on Ubuntu with Apache2: A Comprehensive Guide</a>
+ - 🚀 <a href='https://piraffe.com/posts/mysqldump-guide/?ref=github'>Demystifying `mysqldump`: A Comprehensive Guide</a><!-- BLOG-POST-LIST:END -->
 
 
 ### A Peek into My World:
