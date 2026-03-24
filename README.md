@@ -1,6 +1,6 @@
 ## Hey 👋🏻 I'm Daniel Bahl 👨‍💻
 
-[![Website Badge](https://img.shields.io/badge/-piraffe.com-3b5998?style=flat-square&logo=safari&logoColor=white)](https://piraffe.com/)
+[![Website Badge](https://img.shields.io/badge/-piraffe.com-3b5998?style=flat-square&logo=safari&logoColor=white)](https://danielbahl.com/)
 [![X Badge](https://img.shields.io/badge/-@danielbahl-00acee?style=flat-square&logo=X&logoColor=white)](https://twitter.com/danielbahl)
 [![Linkedin Badge](https://img.shields.io/badge/-@danielbahl-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/danielbahl/)
 [![Instagram Badge](https://img.shields.io/badge/-@girafpingvin-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/girafpingvin/)
@@ -34,10 +34,10 @@ Navigating the crossroads of code and entrepreneurship, I bring your tech dreams
 
 ### A Peek into My World:
 
-- 🛠 &nbsp; On the workbench: PHP, JavaScript/TypeScript, Deno, Astro SSG, MySQL, MongoDB, Golang and some Rust. Making the web a better place, one line of code at a time 😅🤣
-- 🚀 &nbsp; Currently nerding out: Integrating AI in some of my projects and internal tools with OpenAI GPT-4 API 🤖
+- 🛠 &nbsp; On the workbench: Swift, PHP, Golang, JavaScript/TypeScript, MySQL, MongoDB and some Rust. Making the web and App Store a better place, one line of code at a time 😅🤣
+- 🚀 &nbsp; Currently nerding out: My soon-to-be-released Read-later app codename "http"
 - 👨‍💻 &nbsp; Want a tour of my code? Check out my projects on [Github](https://github.com/DanielBahl).
-- 📝 &nbsp; When I'm not coding or running my business, I'm [blogging](https://piraffe.com) about it. Get in on the insights!
+- 📝 &nbsp; When I'm not coding or running my business, I'm [blogging](https://danielbahl.com) about it. Get in on the insights!
 - 🎮 &nbsp; <code>if () {</code> or <code>if () \n{</code> - I'm team one-liner
 - 📬 &nbsp; Got questions or just want to say hi? Shoot me a DM at [𝕏](https://x.com/danielbahl/), [Instagram](https://instagram.com/girafpingvin/) or github-dm@danielbahl.com
 
@@ -48,13 +48,6 @@ Navigating the crossroads of code and entrepreneurship, I bring your tech dreams
 - 📰 &nbsp; If I'm not writing code, I'm writing about it. Gotta love tech blogs, right?
 - 🍕 &nbsp; Hackathons are our mid-week office party! We host them every Wednesday at my company. But Thursdays? Those are sacred; they're my days off.
 
-### Goals for 2024 🎯
-
-- 📖 &nbsp; Transition to Open Source: Aim to make more of my current closed-source projects available on GitHub. Time to share the love! 😥➡️😃
-- 🚀 &nbsp; Finally Launch duck.tools: Been sitting on this domain for two years. 2024 is the year it takes flight! 🦆🛠️
-- 🎥 &nbsp; Reach 5K Danish YouTube Subscribers: Time to ramp up the video content and grow the online community. 📈
-- 📊 &nbsp; Scale my business, grow the team, and make our services even better. 💼💰
-
 Big dreams for a big year ahead! 🌟
 
 ### Languages and Tools:
@@ -62,7 +55,7 @@ Big dreams for a big year ahead! 🌟
 #### Languages:
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
-<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
+<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
@@ -70,7 +63,6 @@ Big dreams for a big year ahead! 🌟
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <br/>  
 
 #### Databases: 
