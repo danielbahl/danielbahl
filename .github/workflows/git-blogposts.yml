@@ -22,6 +22,7 @@ jobs:
           feed_list: "https://danielbahl.com/tech/rss"
           template: "$newline - $randomEmoji(⭐,🎉,😜,🔥,🚀,👨‍💻,👀,✍🏻,🥳,⚡️) <a href='$url?ref=github'>$title</a>"
           max_post_count: 30
+          comment_tag_name: "BLOG-POST-LIST"
           committer_username: DanielBahl
           committer_email: bot@danielbahl.com
           commit_message: ":memo: updated blog list from RSS"
