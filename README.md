@@ -30,36 +30,36 @@ Navigating the crossroads of code and entrepreneurship, I bring your tech dreams
 
 ### Latest Feed Posts from danielbahl.com
 <!-- FEED-POST-LIST:START -->
- - ✍🏻 <a href='https://danielbahl.com/feed/macbook-neo-gets-a-1-tb-ssd-upgrade?ref=github'>MacBook Neo gets a 1 TB SSD upgrade</a>
- - 🔥 <a href='https://danielbahl.com/feed/gmail-gets-end-to-end-encryption-on-iphone-for-workspace-users?ref=github'>Gmail gets end-to-end encryption on iPhone for Workspace users</a>
- - 🔥 <a href='https://danielbahl.com/feed/mac-os-x-cheetah-is-now-running-on-the-nintendo-wii?ref=github'>Mac OS X Cheetah is now running on the Nintendo Wii</a>
- - 🚀 <a href='https://danielbahl.com/feed/chatgpt-is-coming-to-carplay-with-hands-free-conversations?ref=github'>ChatGPT is coming to CarPlay with hands-free conversations</a>
- - 🥳 <a href='https://danielbahl.com/feed/apple-music-gets-five-new-features-in-ios-26-4?ref=github'>Apple Music gets five new features in iOS 26.4</a>
- - 🎉 <a href='https://danielbahl.com/feed/hyper3d-ai-makes-3d-even-crazier?ref=github'>Hyper3D: AI makes 3D even crazier</a>
- - 👨‍💻 <a href='https://danielbahl.com/feed/older-iphones-still-impress-with-their-camera-quality?ref=github'>Older iPhones still impress with their camera quality</a>
- - 👨‍💻 <a href='https://danielbahl.com/feed/goodbye-to-mac-pro-after-20-years?ref=github'>Goodbye to Mac Pro after 20 years</a>
- - 🎉 <a href='https://danielbahl.com/feed/ios-26-4-has-landed-here-s-what-s-new?ref=github'>iOS 26.4 has landed: Here’s what’s new</a>
- - 👀 <a href='https://danielbahl.com/feed/apple-announces-wwdc-2026-from-june-8-to-12?ref=github'>Apple announces WWDC 2026 from June 8 to 12</a>
- - 🚀 <a href='https://danielbahl.com/feed/steve-jobs-is-speaking-at-the-apple-campus-again?ref=github'>Steve Jobs is speaking at the Apple campus again</a>
- - 👨‍💻 <a href='https://danielbahl.com/feed/app-makes-your-macbook-scream-back?ref=github'>App makes your MacBook scream back</a>
- - 🔥 <a href='https://danielbahl.com/feed/google-launches-stitch-for-ai-powered-ui-design?ref=github'>Google launches Stitch for AI-powered UI design</a>
- - 😜 <a href='https://danielbahl.com/feed/10-audio-improvements-in-apple-s-new-airpods-max-2?ref=github'>10 audio improvements in Apple’s new AirPods Max 2</a>
- - 🚀 <a href='https://danielbahl.com/feed/street-guitarist-speechless-over-the-guitar-he-gets?ref=github'>Street guitarist speechless over the guitar he gets</a>
- - 👀 <a href='https://danielbahl.com/feed/google-maps-gets-a-major-ai-update-in-the-us?ref=github'>Google Maps gets a major AI update in the US</a>
- - ✍🏻 <a href='https://danielbahl.com/feed/my-new-password-app-is-now-live-on-the-app-store?ref=github'>My new password app is now live on the App Store</a>
- - ⭐ <a href='https://danielbahl.com/feed/qr-codes-for-testing-otp-in-a-password-manager?ref=github'>QR codes for testing OTP in a password manager</a>
- - 🥳 <a href='https://danielbahl.com/feed/blackberry-impresses-10-10-from-an-enthusiastic-viewer?ref=github'>BlackBerry impresses: 10/10 from an enthusiastic viewer</a>
- - 😜 <a href='https://danielbahl.com/feed/over-10-new-features-coming-in-ios-27?ref=github'>Over 10 new features coming in iOS 27</a>
- - 👀 <a href='https://danielbahl.com/feed/new-macbook-neo-wallpapers-are-coming-to-all-macs?ref=github'>New MacBook Neo wallpapers are coming to all Macs</a>
- - 👀 <a href='https://danielbahl.com/feed/wikipedia-is-losing-traffic-to-ai-and-social-videos?ref=github'>Wikipedia is losing traffic to AI and social videos</a>
- - 🔥 <a href='https://danielbahl.com/feed/john-ternus-is-rumored-to-be-apple-s-next-top-boss?ref=github'>John Ternus is rumored to be Apple’s next top boss</a>
- - ✍🏻 <a href='https://danielbahl.com/feed/weak-sales-delay-the-next-generation-of-iphone-air?ref=github'>Weak sales delay the next generation of iPhone Air</a>
- - ⭐ <a href='https://danielbahl.com/feed/cherri-makes-shortcuts-much-easier-to-build?ref=github'>Cherri makes Shortcuts much easier to build</a>
- - 🥳 <a href='https://danielbahl.com/feed/30-new-starling-nest-boxes-are-being-put-up-along-the-country-roads?ref=github'>30 new starling nest boxes are being put up along the country roads</a>
- - 👀 <a href='https://danielbahl.com/feed/valve-teases-new-hardware-that-challenges-the-tech-giants?ref=github'>Valve teases new hardware that challenges the tech giants</a>
- - ⚡️ <a href='https://danielbahl.com/feed/tesla-on-course-for-a-billion-dollar-ai-fiasco?ref=github'>Tesla on course for a billion-dollar AI fiasco</a>
- - 👨‍💻 <a href='https://danielbahl.com/feed/new-employee-gets-a-macbook-air-m4-at-the-startup?ref=github'>New employee gets a MacBook Air M4 at the startup</a>
- - ⚡️ <a href='https://danielbahl.com/feed/php-8-5-is-approaching-with-the-pipe-operator-and-changes?ref=github'>PHP 8.5 is approaching with the pipe operator and changes</a><!-- FEED-POST-LIST:END -->
+ - ✍🏻 <a href='https://danielbahl.com/feed/tim-cook-becomes-chairman-of-the-board-john-ternus-the-new-apple-chief?ref=github'>Tim Cook becomes Chairman of the Board, John Ternus the new Apple chief</a>
+ - 🔥 <a href='https://danielbahl.com/feed/amazon-is-investing-billions-in-anthropic-and-a-cloud-deal?ref=github'>Amazon is investing billions in Anthropic and a cloud deal</a>
+ - 🔥 <a href='https://danielbahl.com/feed/macbook-neo-gets-a-1-tb-ssd-upgrade?ref=github'>MacBook Neo gets a 1 TB SSD upgrade</a>
+ - 🚀 <a href='https://danielbahl.com/feed/gmail-gets-end-to-end-encryption-on-iphone-for-workspace-users?ref=github'>Gmail gets end-to-end encryption on iPhone for Workspace users</a>
+ - 🥳 <a href='https://danielbahl.com/feed/mac-os-x-cheetah-is-now-running-on-the-nintendo-wii?ref=github'>Mac OS X Cheetah is now running on the Nintendo Wii</a>
+ - 🎉 <a href='https://danielbahl.com/feed/chatgpt-is-coming-to-carplay-with-hands-free-conversations?ref=github'>ChatGPT is coming to CarPlay with hands-free conversations</a>
+ - 👨‍💻 <a href='https://danielbahl.com/feed/apple-music-gets-five-new-features-in-ios-26-4?ref=github'>Apple Music gets five new features in iOS 26.4</a>
+ - 👨‍💻 <a href='https://danielbahl.com/feed/hyper3d-ai-makes-3d-even-crazier?ref=github'>Hyper3D: AI makes 3D even crazier</a>
+ - 🎉 <a href='https://danielbahl.com/feed/older-iphones-still-impress-with-their-camera-quality?ref=github'>Older iPhones still impress with their camera quality</a>
+ - 👀 <a href='https://danielbahl.com/feed/goodbye-to-mac-pro-after-20-years?ref=github'>Goodbye to Mac Pro after 20 years</a>
+ - 🚀 <a href='https://danielbahl.com/feed/ios-26-4-has-landed-here-s-what-s-new?ref=github'>iOS 26.4 has landed: Here’s what’s new</a>
+ - 👨‍💻 <a href='https://danielbahl.com/feed/apple-announces-wwdc-2026-from-june-8-to-12?ref=github'>Apple announces WWDC 2026 from June 8 to 12</a>
+ - 🔥 <a href='https://danielbahl.com/feed/steve-jobs-is-speaking-at-the-apple-campus-again?ref=github'>Steve Jobs is speaking at the Apple campus again</a>
+ - 😜 <a href='https://danielbahl.com/feed/app-makes-your-macbook-scream-back?ref=github'>App makes your MacBook scream back</a>
+ - 🚀 <a href='https://danielbahl.com/feed/google-launches-stitch-for-ai-powered-ui-design?ref=github'>Google launches Stitch for AI-powered UI design</a>
+ - 👀 <a href='https://danielbahl.com/feed/10-audio-improvements-in-apple-s-new-airpods-max-2?ref=github'>10 audio improvements in Apple’s new AirPods Max 2</a>
+ - ✍🏻 <a href='https://danielbahl.com/feed/street-guitarist-speechless-over-the-guitar-he-gets?ref=github'>Street guitarist speechless over the guitar he gets</a>
+ - ⭐ <a href='https://danielbahl.com/feed/google-maps-gets-a-major-ai-update-in-the-us?ref=github'>Google Maps gets a major AI update in the US</a>
+ - 🥳 <a href='https://danielbahl.com/feed/my-new-password-app-is-now-live-on-the-app-store?ref=github'>My new password app is now live on the App Store</a>
+ - 😜 <a href='https://danielbahl.com/feed/qr-codes-for-testing-otp-in-a-password-manager?ref=github'>QR codes for testing OTP in a password manager</a>
+ - 👀 <a href='https://danielbahl.com/feed/blackberry-impresses-10-10-from-an-enthusiastic-viewer?ref=github'>BlackBerry impresses: 10/10 from an enthusiastic viewer</a>
+ - 👀 <a href='https://danielbahl.com/feed/over-10-new-features-coming-in-ios-27?ref=github'>Over 10 new features coming in iOS 27</a>
+ - 🔥 <a href='https://danielbahl.com/feed/new-macbook-neo-wallpapers-are-coming-to-all-macs?ref=github'>New MacBook Neo wallpapers are coming to all Macs</a>
+ - ✍🏻 <a href='https://danielbahl.com/feed/wikipedia-is-losing-traffic-to-ai-and-social-videos?ref=github'>Wikipedia is losing traffic to AI and social videos</a>
+ - ⭐ <a href='https://danielbahl.com/feed/john-ternus-is-rumored-to-be-apple-s-next-top-boss?ref=github'>John Ternus is rumored to be Apple’s next top boss</a>
+ - 🥳 <a href='https://danielbahl.com/feed/weak-sales-delay-the-next-generation-of-iphone-air?ref=github'>Weak sales delay the next generation of iPhone Air</a>
+ - 👀 <a href='https://danielbahl.com/feed/cherri-makes-shortcuts-much-easier-to-build?ref=github'>Cherri makes Shortcuts much easier to build</a>
+ - ⚡️ <a href='https://danielbahl.com/feed/30-new-starling-nest-boxes-are-being-put-up-along-the-country-roads?ref=github'>30 new starling nest boxes are being put up along the country roads</a>
+ - 👨‍💻 <a href='https://danielbahl.com/feed/valve-teases-new-hardware-that-challenges-the-tech-giants?ref=github'>Valve teases new hardware that challenges the tech giants</a>
+ - ⚡️ <a href='https://danielbahl.com/feed/tesla-on-course-for-a-billion-dollar-ai-fiasco?ref=github'>Tesla on course for a billion-dollar AI fiasco</a><!-- FEED-POST-LIST:END -->
 
 ### A Peek into My World:
 
