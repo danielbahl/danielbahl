@@ -18,7 +18,7 @@
 Navigating the crossroads of code and entrepreneurship, I bring your tech dreams to life through my hosting-company Hippoways™. When I'm not elbows-deep in code, you'll find me crafting YouTube content, enjoying life with my two kids and wife, or searching for the perfect balance between serious and playful 🛠️🎥🎮
 
 
-<img alt="Coding Me" src="./assets/1500x500.jpg" />
+<img alt="Coding Me" src="./assets/1500x500.png" />
 
 ### 💥 Latest Blog Posts from danielbahl.com
 <!-- BLOG-POST-LIST:START -->
