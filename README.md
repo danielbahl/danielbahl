@@ -22,10 +22,11 @@ Navigating the crossroads of code and entrepreneurship, I bring your tech dreams
 
 ### 💥 Latest Blog Posts from danielbahl.com
 <!-- BLOG-POST-LIST:START -->
- - ✍🏻 <a href='https://danielbahl.com/tech/easyfind-on-macos-when-spotlight-fails-and-terminal-is-too-much?ref=github'>EasyFind on macOS: When Spotlight Fails and Terminal Is Too Much</a>
+ - ✍🏻 <a href='https://danielbahl.com/tech/i-tried-capcut-for-24-hours-crazy-or-genius?ref=github'>I Tried CapCut for 24 Hours: Crazy or Genius?</a>
+ - 🔥 <a href='https://danielbahl.com/tech/easyfind-on-macos-when-spotlight-fails-and-terminal-is-too-much?ref=github'>EasyFind on macOS: When Spotlight Fails and Terminal Is Too Much</a>
  - 🔥 <a href='https://danielbahl.com/tech/password-remember-a-user-friendly-password-manager?ref=github'>Password Remember: a user-friendly password manager that remembers what you forget</a>
- - 🔥 <a href='https://danielbahl.com/tech/from-online-backend-to-fully-offline-how-i-embed-an-updated-word-database-in-my-bedrager-app-for-ios-and-android?ref=github'>From Online Backend to Fully Offline: How I Embed an Updated Word Database in My Bedrager App for iOS and Android</a>
- - 🚀 <a href='https://danielbahl.com/tech/bash-aliases-make-your-terminal-smarter-with-shortcuts?ref=github'>Bash Aliases: Make Your Terminal Smarter with Shortcuts</a><!-- BLOG-POST-LIST:END -->
+ - 🚀 <a href='https://danielbahl.com/tech/from-online-backend-to-fully-offline-how-i-embed-an-updated-word-database-in-my-bedrager-app-for-ios-and-android?ref=github'>From Online Backend to Fully Offline: How I Embed an Updated Word Database in My Bedrager App for iOS and Android</a>
+ - 🥳 <a href='https://danielbahl.com/tech/bash-aliases-make-your-terminal-smarter-with-shortcuts?ref=github'>Bash Aliases: Make Your Terminal Smarter with Shortcuts</a><!-- BLOG-POST-LIST:END -->
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest Feed Posts from danielbahl.com
